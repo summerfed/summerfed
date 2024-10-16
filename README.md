@@ -6,7 +6,7 @@
         I'm Fed.<br><br>
 I'm passionate about learning new things and using technology to solve real-world problems. <br><br>
 And my goal is to make this world a better place to live than yesterday.. <br><br>
-Open to collaborating on interesting and innovative projects.<br>
+Open for collaboration on interesting and innovative projects.<br>
 </i><br>
 <a href="https://www.linkedin.com/in/bedevfed/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
